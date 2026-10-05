@@ -1,0 +1,6 @@
+{
+  "name": "MMM AIRWAYS",
+  "description": "MMM Airways — Beyond the Sky. Connecting South India with regional scheduled airline connectivity, ATR 72-600 & A320 NEO fleet, charter operations, MRO, and integrated aviation solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
